@@ -2,6 +2,13 @@ const ads = {
   status: true,
   interval: 30,
   ads: [
+     {
+      "id": "5734897o353085jghgGH",
+      "title": "Your Loveworld Specials with Pastor Chris - Season 11 Phase 5",
+      "duration": 92,
+      "canSkip": true,
+      "url": "https://d1ent1.loveworldcloud.com/~nmt/ceflix/livetvads/YLWS-S11-P5-1.mp4"
+    },
     {
       id: '1',
       title: 'Testin ads with demo dummy ads URL',
