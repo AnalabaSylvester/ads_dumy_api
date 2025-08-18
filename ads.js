@@ -13,7 +13,7 @@ const ads = {
       id: '1',
       title: 'Testin ads with demo dummy ads URL',
       duration: 20,
-      canSkip: true,
+      canSkip: false,
       url: 'https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4'
     },
 
