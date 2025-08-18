@@ -1,6 +1,6 @@
 const ads = {
   status: true,
-  interval: 300,
+  interval: 30,
   ads: [
      {
       "id": "5734897o353085jghgGH",
